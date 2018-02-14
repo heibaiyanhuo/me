@@ -1,6 +1,6 @@
-# me
+# Me
 
-> A Vue.js project
+> A blog system.
 
 ## Build Setup
 
