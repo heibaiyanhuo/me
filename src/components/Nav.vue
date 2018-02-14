@@ -17,10 +17,9 @@
   </div>
 </template>
 
-
 <script>
 export default {
-  name: 'Test',
+  name: 'Nav',
   data () {
     return {
       activeIndex: '1'
